@@ -1,0 +1,33 @@
+DevOps , DevOps Lifecycle , GitHub ,and Diagrams.net
+
+1.Devops
+introduction What is DevOps? 
+DevOps = Development + Operations
+its a culture + set of practices + tools that help:
+. Developers(who write code)
+. Operations(who deploy/manage systems)
+-> Work together , instead of working in silos.
+  
+Real-Time Example:
+Imagine you're building a mobile app like Swiggy
+. The Developers write code to add "Track My Order" feature.
+. without DevOps: Developers gives ode to opposite team->they manually deploy->bug happen->delays.
+
+
+
+phase     Description
+
+plan      Define what to build
+
+Develop   Write the code
+
+Build     
+
+Test      Compile for bugs automatically
+
+Release   Approve the build for deployment
+
+Deploy    Push app running,fix any issues
+
+
+
