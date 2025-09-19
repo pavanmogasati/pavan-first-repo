@@ -19,15 +19,14 @@ phase     Description
 
 plan      Define what to build
 
-Develop   Write the code
-
-Build     
+Develop   Write the code     
 
 Test      Compile for bugs automatically
 
 Release   Approve the build for deployment
 
 Deploy    Push app running,fix any issues
+
 
 
 
